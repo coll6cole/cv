@@ -1,0 +1,29 @@
+body {
+  background-color: #dcc6cc;
+  width: 30%;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  font-family: "Palatino Linotype", "book Antiqua", Palatino,serif;
+}
+h1{
+  color: #f8e7ec;
+}
+h3 {
+  color: #724652;
+}
+thead {
+  color:#724652;
+}
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #b98d99;
+  border-width: 5px;
+  width: 15%;
+}
+table {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
